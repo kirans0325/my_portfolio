@@ -2,8 +2,11 @@ import React from "react";
 // import Image from "next/image";
 
 const skills = [
-  { skill: "HTML" },
-  { skill: "CSS" },
+  { skill: "Python" },
+  { skill: "Jupyter Notebooks" },
+  { skill: "SQL" },
+  { skill: "TensorFlow" },
+  { skill: "MongoDB" },
   { skill: "JavaScript" },
   { skill: "TypeScript" },
   { skill: "React" },
@@ -11,8 +14,6 @@ const skills = [
   { skill: "Tailwind CSS" },
   { skill: "Git" },
   { skill: "GitHub" },
-  { skill: "Python" },
-  { skill: "Jupyter Notebooks" },
 ];
 
 const AboutSection = () => {
@@ -38,11 +39,10 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              As a seasoned professional in the software industry, I graduated
-              from GMIT, Andhra Pradesh, in 2014 with a Bachelors degree in
-              Chemical Engineering. Over the past nine years, I have cultivated
-              expertise in the pharmaceutical sector, but my true passion lies
-              in software engineering and web development. In the last 1.5
+              I graduated from GMRIT, Andhra Pradesh, in 2014 with a Bachelors
+              degree in Chemical Engineering. Over the past nine years, I have
+              cultivated expertise in the pharmaceutical sector, but my true
+              passion lies in Data Scinece and web development. In the last 1.5
               years, I have dedicated myself to mastering programming languages
               and actively engaged in web development projects through
               freelancing.
@@ -50,8 +50,8 @@ const AboutSection = () => {
             <br />
             <p>
               Now, I am actively seeking a permanent remote role that allows me
-              to leverage my chemical engineering background alongside my
-              newfound skills in the dynamic field of software development.
+              to leverage my newfound skills in the dynamic field of Data
+              Science.
             </p>
             <br />
             <p>

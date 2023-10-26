@@ -22,11 +22,9 @@ const HeroSection = () => {
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
-            <span className="font-semibold text-teal-600">
-              Software Engineer{" "}
-            </span>
-            based in Vizag, India. Working towards creating web apps that makes
-            life easier and more meaningful.
+            <span className="font-semibold text-teal-600">Data Scientist </span>
+            based in Vizag, India. Working towards Data Sceince project & create
+            web apps that makes life easier and more meaningful.
           </p>
           <Link
             to="projects"
