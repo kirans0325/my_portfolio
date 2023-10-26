@@ -39,11 +39,11 @@ const AboutSection = () => {
             <br />
             <p>
               As a seasoned professional in the software industry, I graduated
-              from GMIT, Andhra Pradesh, in 2014 with a Bachelor's degree in
-              Chemical Engineering. Over the past nine years, I've cultivated
+              from GMIT, Andhra Pradesh, in 2014 with a Bachelors degree in
+              Chemical Engineering. Over the past nine years, I have cultivated
               expertise in the pharmaceutical sector, but my true passion lies
               in software engineering and web development. In the last 1.5
-              years, I've dedicated myself to mastering programming languages
+              years, I have dedicated myself to mastering programming languages
               and actively engaged in web development projects through
               freelancing.
             </p>
@@ -59,10 +59,10 @@ const AboutSection = () => {
               <span className="font-bold text-teal-500">
                 never stop growing
               </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              and that what I strive to do, I have a passion for technology and
+              a desire to always push the limits of what is possible. I am
+              excited to see where my career takes me and am always open to new
+              opportunities. 🙂
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">

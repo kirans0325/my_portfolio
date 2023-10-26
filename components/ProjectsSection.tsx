@@ -10,7 +10,7 @@ const projects = [
     description:
       "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
     image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
+    github: "https://github.com/",
     link: "https://thankfulthoughts.io/",
   },
   // {
